@@ -1,0 +1,9 @@
+:export {
+  name: "less";
+  primaryColor: var(--primaryColor, #102642);
+  primaryTextColor: var(--primaryTextColor, #fff);
+  primaryCardColor: var(--primaryCardColor, #fff);
+  primaryHeaderColor: var(--primaryHeaderColor, #fff);
+  primaryHeaderTextColor: var(--primaryHeaderTextColor, #000);
+  primaryTableColor: var(--primaryTableColor, #fff);
+}
